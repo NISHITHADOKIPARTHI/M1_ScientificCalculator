@@ -36,13 +36,13 @@ Our system, ie calculator consists of a terminal that takes user inputs and comm
   
  𝐇𝐢𝐠𝐡 𝐋𝐞𝐯𝐞𝐥 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬:
                 ID	         Description	        status
-               HLR_1	    Switching on and off	Implemented
-               HLR_2	     Taking input	        Implemented
-               HLR_3	      Giving output	      Implemented
+               HLR_1	---->    Switching on and off---->	Implemented
+               HLR_2	---->     Taking input	  ----->      Implemented
+               HLR_3	---->      Giving output	 ---->     Implemented
 𝐋𝐨𝐰 𝐥𝐞𝐯𝐞𝐥 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬:
                  ID          	Description	                                          status
-            LLR_1-HLR_2    	Identifying which operation needs to be performed	     Implemented
-            LLR_2-HLR_2	     Performing the mathematical operation	               Implemented
+            LLR_1-HLR_2 ---->   	Identifying which operation needs to be performed	---->     Implemented
+            LLR_2-HLR_2	 ---->    Performing the mathematical operation	  ------>           Implemented
             
             
         
