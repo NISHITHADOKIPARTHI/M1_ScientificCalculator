@@ -1,4 +1,4 @@
-#𝐈𝐍𝐓𝐑𝐎𝐃𝐔𝐂𝐓𝐈𝐎𝐍:
+𝐈𝐍𝐓𝐑𝐎𝐃𝐔𝐂𝐓𝐈𝐎𝐍:
 
 In today's world, time plays a very important factor in every feild. One such important feild is calculation. A calculator is a device that performs arithmetic operations on numbers at a very fast rate. The simplest calculators can do only addition, subtraction, multiplication, and division. More sophisticated calculators can handle exponential operations, roots, logarithms, trigonometric functions, and hyperbolic functions. In this mini-project, i will be designing a calculator which can perform operations like addition, substraction, multiplication, division,modulos,  simple logarithmic functions.
 
